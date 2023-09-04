@@ -9,7 +9,7 @@ body, h1, h2, ul, li {
 
 /* Style the header */
 header {
-    background-color: #2d9dc6c9;
+    background-color:white;
     color: black;
     text-align: center;
     padding: 20px;
@@ -17,7 +17,7 @@ header {
 
 /* Style the navigation menu */
 nav ul {
-    background-color: #333;
+    background-color:white;
     list-style: none;
     text-align: center;
     padding: 10px;
@@ -30,7 +30,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #fff;
+    color:black;
 }
 
 /* Style the main content area
