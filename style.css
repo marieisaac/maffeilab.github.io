@@ -4,6 +4,7 @@
 body, h1, h2, ul, li {
     margin: 0;
     padding: 0;
+    background-color: black;
 }
 
 /* Style the header */
