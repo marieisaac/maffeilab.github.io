@@ -42,8 +42,8 @@ main {
 
 /* Style the footer */
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: white;
+    color: black;
     text-align: center;
     padding: 10px;
 }
