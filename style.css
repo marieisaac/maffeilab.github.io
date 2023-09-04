@@ -1,5 +1,4 @@
 /* styles.css */
-
 /* Reset some default browser styles */
 body, h1, h2, ul, li {
     margin: 0;
@@ -9,7 +8,7 @@ body, h1, h2, ul, li {
 
 /* Style the header */
 header {
-    background-color:white;
+    background-color:coral;
     color: black;
     text-align: center;
     padding: 20px;
